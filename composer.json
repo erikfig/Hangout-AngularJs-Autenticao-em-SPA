@@ -1,0 +1,7 @@
+{
+	"autoload": {
+		"psr-4" : {
+			"WebDevBr\\Hangout\\" : "src/WebDevBr/Hangout"
+		}
+	}
+}
